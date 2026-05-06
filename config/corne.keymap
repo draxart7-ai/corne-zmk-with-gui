@@ -78,7 +78,7 @@ Blender_layer {
             bindings = <
               &none            &kp X            &hm LSHIFT X     &hm LALT Y       &hm LCTRL Z      &kp LS(R)        &none            &none            &none            &none            &none            &none 
               &none            &kp W            &kp R            &kp S            &kp G            &kp TAB          &none            &none            &none            &none            &none            &none 
-              &none            &mo Model_Util   &kp LC(B)        &kp LC(R)        &kp E            &kp M            &none            &none            &none            &none            &mo Com_Switch   &none 
+              &none            &mo Blender_Util &kp LC(B)        &kp LC(R)        &kp E            &kp M            &none            &none            &none            &none            &mo Com_Switch   &none 
                                                 &kp ENTER        &kp SPACE        &kp LSHIFT       &none            &none            &none           
             >;
           };
@@ -127,7 +127,7 @@ Com_Switch_layer {
             label = "Com_Switch";
             bindings = <
               &none            &bt BT_SEL 0     &bt BT_SEL 1     &bt BT_SEL 2     &bt BT_SEL 3     &bt BT_CLR       &none            &none            &none            &none            &none            &none 
-              &none            &to PC           &to Mac          &to Gaming       &to Modeling     &none            &none            &none            &none            &none            &none            &none 
+              &none            &to PC           &to Mac          &to Gaming       &to Blender      &none            &none            &none            &none            &none            &none            &none 
               &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none 
                                                 &none            &none            &none            &none            &none            &none           
             >;
