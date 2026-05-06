@@ -1334,13 +1334,13 @@
               "index": 24,
               "label": "",
               "tap": {
-                "id": 5203,
+                "id": 5222,
+                "code": "N",
                 "key_category_id": 61,
-                "code": "B",
-                "label": "B",
+                "label": "N",
                 "description": null,
-                "created_at": "2021-12-28T09:52:59.057Z",
-                "updated_at": "2022-12-16T10:18:29.879Z",
+                "created_at": "2021-12-28T09:52:59.217Z",
+                "updated_at": "2022-12-16T10:18:30.056Z",
                 "deleted": false,
                 "modifiable": true,
                 "shifted": false,
@@ -1351,7 +1351,7 @@
                 "searchLabel": null,
                 "tag": null,
                 "glyph": null,
-                "jsCode": "KeyB",
+                "jsCode": "KeyN",
                 "url": null,
                 "os": null,
                 "geometry": null,
@@ -1362,7 +1362,8 @@
                 "shape": null,
                 "comboPickable": true,
                 "comboTrigger": true,
-                "modifiers": []
+                "modifiers": [],
+                "layer": {}
               },
               "held": {}
             },
@@ -15144,7 +15145,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 11,
+                  "index": 13,
                   "label": "PC_VDesk"
                 }
               }
@@ -15825,7 +15826,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 13,
+                  "index": 15,
                   "label": "PC_App"
                 }
               }
@@ -15897,7 +15898,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 15,
+                  "index": 17,
                   "label": "PC_Tabs"
                 }
               }
@@ -15969,7 +15970,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 3,
+                  "index": 5,
                   "label": "Numbers"
                 }
               }
@@ -16041,7 +16042,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 5,
+                  "index": 7,
                   "label": "Sym_Right"
                 }
               }
@@ -16186,7 +16187,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 4,
+                  "index": 6,
                   "label": "Sym_Left"
                 }
               }
@@ -16300,7 +16301,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 9,
+                  "index": 11,
                   "label": "PC_Nav"
                 }
               }
@@ -16372,7 +16373,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 7,
+                  "index": 9,
                   "label": "Pc_util"
                 }
               }
@@ -16489,13 +16490,13 @@
               "index": 24,
               "label": "",
               "tap": {
-                "id": 5199,
-                "code": "A",
+                "id": 5203,
+                "code": "B",
                 "key_category_id": 61,
-                "label": "A",
+                "label": "B",
                 "description": null,
-                "created_at": "2021-12-28T09:52:59.022Z",
-                "updated_at": "2022-12-16T10:18:29.845Z",
+                "created_at": "2021-12-28T09:52:59.057Z",
+                "updated_at": "2022-12-16T10:18:29.879Z",
                 "deleted": false,
                 "modifiable": true,
                 "shifted": false,
@@ -16506,7 +16507,7 @@
                 "searchLabel": null,
                 "tag": null,
                 "glyph": null,
-                "jsCode": "KeyA",
+                "jsCode": "KeyB",
                 "url": null,
                 "os": null,
                 "geometry": null,
@@ -16643,7 +16644,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 6,
+                  "index": 8,
                   "label": "Com_Switch"
                 }
               }
@@ -16953,7 +16954,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 12,
+                  "index": 14,
                   "label": "Mac_VDesk"
                 }
               }
@@ -17635,7 +17636,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 14,
+                  "index": 16,
                   "label": "Mac_App"
                 }
               }
@@ -17707,7 +17708,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 16,
+                  "index": 18,
                   "label": "Mac_Tabs"
                 }
               }
@@ -17779,7 +17780,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 3,
+                  "index": 5,
                   "label": "Numbers"
                 }
               }
@@ -17851,7 +17852,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 5,
+                  "index": 7,
                   "label": "Sym_Right"
                 }
               }
@@ -17995,7 +17996,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 4,
+                  "index": 6,
                   "label": "Sym_Left"
                 }
               }
@@ -18109,7 +18110,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 10,
+                  "index": 12,
                   "label": "Mac_Nav"
                 }
               }
@@ -18181,7 +18182,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 8,
+                  "index": 10,
                   "label": "Mac_util"
                 }
               }
@@ -18451,7 +18452,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 6,
+                  "index": 8,
                   "label": "Com_Switch"
                 }
               }
@@ -19542,7 +19543,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 7,
+                  "index": 9,
                   "label": "Pc_util"
                 }
               }
@@ -19834,7 +19835,7 @@
                 "comboTrigger": true,
                 "modifiers": [],
                 "layer": {
-                  "index": 6,
+                  "index": 8,
                   "label": "Com_Switch"
                 }
               }
@@ -20015,6 +20016,1847 @@
         },
         {
           "index": 3,
+          "label": "Blender",
+          "bindings": [
+            {
+              "index": 0,
+              "label": "Delete",
+              "tap": {
+                "id": 5213,
+                "code": "X",
+                "key_category_id": 61,
+                "label": "X",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.142Z",
+                "updated_at": "2022-12-16T10:18:29.964Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyX",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 1,
+              "label": "lock x | Shift",
+              "tap": {
+                "id": 5213,
+                "code": "X",
+                "key_category_id": 61,
+                "label": "X",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.142Z",
+                "updated_at": "2022-12-16T10:18:29.964Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyX",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "id": 6001,
+                "code": "LSHIFT",
+                "key_category_id": 63,
+                "label": "Left shift",
+                "description": null,
+                "created_at": "2021-12-28T09:53:02.738Z",
+                "updated_at": "2022-12-16T10:18:31.972Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": "shift_left",
+                "jsCode": "ShiftLeft",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              }
+            },
+            {
+              "index": 2,
+              "label": "lock y  |  Alt",
+              "tap": {
+                "id": 5212,
+                "code": "Y",
+                "key_category_id": 61,
+                "label": "Y",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.133Z",
+                "updated_at": "2022-12-16T10:18:29.956Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyY",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "id": 6005,
+                "code": "LALT",
+                "key_category_id": 63,
+                "label": "Left Alt",
+                "description": null,
+                "created_at": "2021-12-28T09:53:02.663Z",
+                "updated_at": "2022-12-16T10:18:31.921Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": "option",
+                "tag": null,
+                "glyph": null,
+                "jsCode": "AltLeft",
+                "url": null,
+                "os": {
+                  "osx": {
+                    "glyph": "option_left",
+                    "label": "Left Option"
+                  },
+                  "others": {
+                    "label": "Left Alt"
+                  }
+                },
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              }
+            },
+            {
+              "index": 3,
+              "label": "lock z | Ctrl",
+              "tap": {
+                "id": 5214,
+                "code": "Z",
+                "key_category_id": 61,
+                "label": "Z",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.149Z",
+                "updated_at": "2022-12-16T10:18:29.972Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyZ",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "id": 6003,
+                "code": "LCTRL",
+                "key_category_id": 63,
+                "label": "Left Ctrl",
+                "description": null,
+                "created_at": "2021-12-28T09:53:02.894Z",
+                "updated_at": "2022-12-16T10:18:32.058Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": "control",
+                "tag": null,
+                "glyph": null,
+                "jsCode": "ControlLeft",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              }
+            },
+            {
+              "index": 4,
+              "label": "Repeat Last Action",
+              "tap": {
+                "id": 5217,
+                "code": "R",
+                "key_category_id": 61,
+                "label": "R",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.175Z",
+                "updated_at": "2022-12-16T10:18:29.999Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyR",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [
+                  {
+                    "id": 5464,
+                    "key_category_id": 63,
+                    "code": "MOD_LSFT",
+                    "modCode": "LS",
+                    "label": "Left Shift",
+                    "description": null,
+                    "created_at": "2021-12-28T09:53:02.723Z",
+                    "updated_at": "2022-12-16T10:18:31.964Z",
+                    "deleted": false,
+                    "modifiable": true,
+                    "shifted": false,
+                    "tap": false,
+                    "hold": false,
+                    "doubleTap": false,
+                    "tapHold": false,
+                    "searchLabel": null,
+                    "tag": null,
+                    "glyph": null,
+                    "jsCode": null,
+                    "url": null,
+                    "os": null,
+                    "geometry": null,
+                    "params": null,
+                    "models": null,
+                    "priority": null,
+                    "macro": null,
+                    "shape": null,
+                    "comboPickable": true,
+                    "comboTrigger": true
+                  }
+                ],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 5,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 6,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 7,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 8,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 9,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 10,
+              "label": "Selection Tool",
+              "tap": {
+                "id": 5207,
+                "code": "W",
+                "key_category_id": 61,
+                "label": "W",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.093Z",
+                "updated_at": "2022-12-16T10:18:29.914Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyW",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 11,
+              "label": "Rotate",
+              "tap": {
+                "id": 5217,
+                "code": "R",
+                "key_category_id": 61,
+                "label": "R",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.175Z",
+                "updated_at": "2022-12-16T10:18:29.999Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyR",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 12,
+              "label": "Scale",
+              "tap": {
+                "id": 5215,
+                "code": "S",
+                "key_category_id": 61,
+                "label": "S",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.157Z",
+                "updated_at": "2022-12-16T10:18:29.980Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyS",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 13,
+              "label": "Move ",
+              "tap": {
+                "id": 5208,
+                "code": "G",
+                "key_category_id": 61,
+                "label": "G",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.102Z",
+                "updated_at": "2022-12-16T10:18:29.923Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyG",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {}
+            },
+            {
+              "index": 14,
+              "label": "Change Mode",
+              "tap": {
+                "id": 5579,
+                "code": "TAB",
+                "key_category_id": 81,
+                "label": "Tab",
+                "description": null,
+                "created_at": "2021-12-28T09:53:04.153Z",
+                "updated_at": "2022-12-16T10:18:32.986Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": "Tabulation",
+                "tag": null,
+                "glyph": null,
+                "jsCode": "Tab",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 15,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 16,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 17,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 18,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 19,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 20,
+              "label": "",
+              "tap": {},
+              "held": {
+                "id": 6254,
+                "code": "to",
+                "key_category_id": 65,
+                "label": "Switch To",
+                "description": "Direct switch to a layer. Works for switching to lower layers as well.",
+                "created_at": "2021-12-28T09:53:10.582Z",
+                "updated_at": "2022-12-16T23:38:33.805Z",
+                "deleted": false,
+                "modifiable": false,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": "tap",
+                "glyph": "layer_tap",
+                "jsCode": null,
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": {
+                  "layer": "otherLayers"
+                },
+                "models": null,
+                "priority": null,
+                "macro": null,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {
+                  "index": 4,
+                  "label": "Blender_Util"
+                }
+              }
+            },
+            {
+              "index": 21,
+              "label": "Bevel",
+              "tap": {
+                "id": 5203,
+                "code": "B",
+                "key_category_id": 61,
+                "label": "B",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.057Z",
+                "updated_at": "2022-12-16T10:18:29.879Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyB",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [
+                  {
+                    "id": 5470,
+                    "key_category_id": 63,
+                    "code": "MOD_LCTL",
+                    "modCode": "LC",
+                    "label": "Left Control",
+                    "description": null,
+                    "created_at": "2021-12-28T09:53:02.833Z",
+                    "updated_at": "2022-12-16T10:18:32.025Z",
+                    "deleted": false,
+                    "modifiable": true,
+                    "shifted": false,
+                    "tap": false,
+                    "hold": false,
+                    "doubleTap": false,
+                    "tapHold": false,
+                    "searchLabel": null,
+                    "tag": null,
+                    "glyph": null,
+                    "jsCode": null,
+                    "url": null,
+                    "os": null,
+                    "geometry": null,
+                    "params": null,
+                    "models": null,
+                    "priority": null,
+                    "macro": null,
+                    "shape": null,
+                    "comboPickable": true,
+                    "comboTrigger": true
+                  }
+                ],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 22,
+              "label": "Add Loop",
+              "tap": {
+                "id": 5217,
+                "code": "R",
+                "key_category_id": 61,
+                "label": "R",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.175Z",
+                "updated_at": "2022-12-16T10:18:29.999Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyR",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [
+                  {
+                    "id": 5470,
+                    "key_category_id": 63,
+                    "code": "MOD_LCTL",
+                    "modCode": "LC",
+                    "label": "Left Control",
+                    "description": null,
+                    "created_at": "2021-12-28T09:53:02.833Z",
+                    "updated_at": "2022-12-16T10:18:32.025Z",
+                    "deleted": false,
+                    "modifiable": true,
+                    "shifted": false,
+                    "tap": false,
+                    "hold": false,
+                    "doubleTap": false,
+                    "tapHold": false,
+                    "searchLabel": null,
+                    "tag": null,
+                    "glyph": null,
+                    "jsCode": null,
+                    "url": null,
+                    "os": null,
+                    "geometry": null,
+                    "params": null,
+                    "models": null,
+                    "priority": null,
+                    "macro": null,
+                    "shape": null,
+                    "comboPickable": true,
+                    "comboTrigger": true
+                  }
+                ],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 23,
+              "label": "Extrude",
+              "tap": {
+                "id": 5202,
+                "code": "E",
+                "key_category_id": 61,
+                "label": "E",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.049Z",
+                "updated_at": "2022-12-16T10:18:29.870Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyE",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 24,
+              "label": "Merge",
+              "tap": {
+                "id": 5201,
+                "code": "M",
+                "key_category_id": 61,
+                "label": "M",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.040Z",
+                "updated_at": "2022-12-16T10:18:29.862Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyM",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 25,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 26,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 27,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 28,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 29,
+              "label": "",
+              "tap": {},
+              "held": {
+                "id": 6254,
+                "code": "to",
+                "key_category_id": 65,
+                "label": "Switch To",
+                "description": "Direct switch to a layer. Works for switching to lower layers as well.",
+                "created_at": "2021-12-28T09:53:10.582Z",
+                "updated_at": "2022-12-16T23:38:33.805Z",
+                "deleted": false,
+                "modifiable": false,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": "tap",
+                "glyph": "layer_tap",
+                "jsCode": null,
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": {
+                  "layer": "otherLayers"
+                },
+                "models": null,
+                "priority": null,
+                "macro": null,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {
+                  "index": 8,
+                  "label": "Com_Switch"
+                }
+              }
+            },
+            {
+              "index": 30,
+              "label": "",
+              "tap": {
+                "id": 5577,
+                "code": "ENTER",
+                "key_category_id": 81,
+                "label": "Enter",
+                "description": null,
+                "created_at": "2021-12-28T09:53:04.131Z",
+                "updated_at": "2022-12-16T10:18:32.968Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": "Enter Return",
+                "tag": null,
+                "glyph": "enter",
+                "jsCode": "Enter",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": 2,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 31,
+              "label": "",
+              "tap": {
+                "id": 5589,
+                "code": "SPACE",
+                "key_category_id": 81,
+                "label": "Space",
+                "description": null,
+                "created_at": "2021-12-28T09:53:04.184Z",
+                "updated_at": "2022-12-16T10:18:33.007Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": "spaceonly",
+                "tag": null,
+                "glyph": "space",
+                "jsCode": "Space",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": 1,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 32,
+              "label": "",
+              "tap": {
+                "id": 6001,
+                "code": "LSHIFT",
+                "key_category_id": 63,
+                "label": "Left shift",
+                "description": null,
+                "created_at": "2021-12-28T09:53:02.738Z",
+                "updated_at": "2022-12-16T10:18:31.972Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": "shift_left",
+                "jsCode": "ShiftLeft",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 33,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 34,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 35,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Blender_Util",
+          "bindings": [
+            {
+              "index": 0,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 1,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 2,
+              "label": "Undo",
+              "tap": {
+                "id": 5214,
+                "code": "Z",
+                "key_category_id": 61,
+                "label": "Z",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.149Z",
+                "updated_at": "2022-12-16T10:18:29.972Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyZ",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [
+                  {
+                    "id": 5470,
+                    "key_category_id": 63,
+                    "code": "MOD_LCTL",
+                    "modCode": "LC",
+                    "label": "Left Control",
+                    "description": null,
+                    "created_at": "2021-12-28T09:53:02.833Z",
+                    "updated_at": "2022-12-16T10:18:32.025Z",
+                    "deleted": false,
+                    "modifiable": true,
+                    "shifted": false,
+                    "tap": false,
+                    "hold": false,
+                    "doubleTap": false,
+                    "tapHold": false,
+                    "searchLabel": null,
+                    "tag": null,
+                    "glyph": null,
+                    "jsCode": null,
+                    "url": null,
+                    "os": null,
+                    "geometry": null,
+                    "params": null,
+                    "models": null,
+                    "priority": null,
+                    "macro": null,
+                    "shape": null,
+                    "comboPickable": true,
+                    "comboTrigger": true
+                  }
+                ],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 3,
+              "label": "Redo",
+              "tap": {
+                "id": 5214,
+                "code": "Z",
+                "key_category_id": 61,
+                "label": "Z",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.149Z",
+                "updated_at": "2022-12-16T10:18:29.972Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyZ",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [
+                  {
+                    "id": 5470,
+                    "key_category_id": 63,
+                    "code": "MOD_LCTL",
+                    "modCode": "LC",
+                    "label": "Left Control",
+                    "description": null,
+                    "created_at": "2021-12-28T09:53:02.833Z",
+                    "updated_at": "2022-12-16T10:18:32.025Z",
+                    "deleted": false,
+                    "modifiable": true,
+                    "shifted": false,
+                    "tap": false,
+                    "hold": false,
+                    "doubleTap": false,
+                    "tapHold": false,
+                    "searchLabel": null,
+                    "tag": null,
+                    "glyph": null,
+                    "jsCode": null,
+                    "url": null,
+                    "os": null,
+                    "geometry": null,
+                    "params": null,
+                    "models": null,
+                    "priority": null,
+                    "macro": null,
+                    "shape": null,
+                    "comboPickable": true,
+                    "comboTrigger": true
+                  },
+                  {
+                    "id": 5464,
+                    "key_category_id": 63,
+                    "code": "MOD_LSFT",
+                    "modCode": "LS",
+                    "label": "Left Shift",
+                    "description": null,
+                    "created_at": "2021-12-28T09:53:02.723Z",
+                    "updated_at": "2022-12-16T10:18:31.964Z",
+                    "deleted": false,
+                    "modifiable": true,
+                    "shifted": false,
+                    "tap": false,
+                    "hold": false,
+                    "doubleTap": false,
+                    "tapHold": false,
+                    "searchLabel": null,
+                    "tag": null,
+                    "glyph": null,
+                    "jsCode": null,
+                    "url": null,
+                    "os": null,
+                    "geometry": null,
+                    "params": null,
+                    "models": null,
+                    "priority": null,
+                    "macro": null,
+                    "shape": null,
+                    "comboPickable": true,
+                    "comboTrigger": true
+                  }
+                ],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 4,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 5,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 6,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 7,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 8,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 9,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 10,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 11,
+              "label": "Save | hold + SaveAs",
+              "tap": {
+                "id": 5215,
+                "code": "S",
+                "key_category_id": 61,
+                "label": "S",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.157Z",
+                "updated_at": "2022-12-16T10:18:29.980Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyS",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [
+                  {
+                    "id": 5470,
+                    "key_category_id": 63,
+                    "code": "MOD_LCTL",
+                    "modCode": "LC",
+                    "label": "Left Control",
+                    "description": null,
+                    "created_at": "2021-12-28T09:53:02.833Z",
+                    "updated_at": "2022-12-16T10:18:32.025Z",
+                    "deleted": false,
+                    "modifiable": true,
+                    "shifted": false,
+                    "tap": false,
+                    "hold": false,
+                    "doubleTap": false,
+                    "tapHold": false,
+                    "searchLabel": null,
+                    "tag": null,
+                    "glyph": null,
+                    "jsCode": null,
+                    "url": null,
+                    "os": null,
+                    "geometry": null,
+                    "params": null,
+                    "models": null,
+                    "priority": null,
+                    "macro": null,
+                    "shape": null,
+                    "comboPickable": true,
+                    "comboTrigger": true
+                  }
+                ],
+                "layer": {}
+              },
+              "held": {
+                "id": 6003,
+                "code": "LCTRL",
+                "key_category_id": 63,
+                "label": "Left Ctrl",
+                "description": null,
+                "created_at": "2021-12-28T09:53:02.894Z",
+                "updated_at": "2022-12-16T10:18:32.058Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": "control",
+                "tag": null,
+                "glyph": null,
+                "jsCode": "ControlLeft",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              }
+            },
+            {
+              "index": 12,
+              "label": "Save As",
+              "tap": {
+                "id": 5215,
+                "code": "S",
+                "key_category_id": 61,
+                "label": "S",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.157Z",
+                "updated_at": "2022-12-16T10:18:29.980Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyS",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [
+                  {
+                    "id": 5464,
+                    "key_category_id": 63,
+                    "code": "MOD_LSFT",
+                    "modCode": "LS",
+                    "label": "Left Shift",
+                    "description": null,
+                    "created_at": "2021-12-28T09:53:02.723Z",
+                    "updated_at": "2022-12-16T10:18:31.964Z",
+                    "deleted": false,
+                    "modifiable": true,
+                    "shifted": false,
+                    "tap": false,
+                    "hold": false,
+                    "doubleTap": false,
+                    "tapHold": false,
+                    "searchLabel": null,
+                    "tag": null,
+                    "glyph": null,
+                    "jsCode": null,
+                    "url": null,
+                    "os": null,
+                    "geometry": null,
+                    "params": null,
+                    "models": null,
+                    "priority": null,
+                    "macro": null,
+                    "shape": null,
+                    "comboPickable": true,
+                    "comboTrigger": true
+                  }
+                ],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 13,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 14,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 15,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 16,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 17,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 18,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 19,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 20,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 21,
+              "label": "Select All Linked",
+              "tap": {
+                "id": 5211,
+                "code": "L",
+                "key_category_id": 61,
+                "label": "L",
+                "description": null,
+                "created_at": "2021-12-28T09:52:59.125Z",
+                "updated_at": "2022-12-16T10:18:29.948Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": null,
+                "glyph": null,
+                "jsCode": "KeyL",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 22,
+              "label": "Selection Shrink",
+              "tap": {
+                "id": 6853,
+                "code": "KP_MINUS",
+                "key_category_id": 77,
+                "label": "-",
+                "description": null,
+                "created_at": "2021-12-28T09:53:15.526Z",
+                "updated_at": "2022-12-16T10:18:44.930Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": "numpad",
+                "glyph": null,
+                "jsCode": "NumpadSubtract",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [
+                  {
+                    "id": 5470,
+                    "key_category_id": 63,
+                    "code": "MOD_LCTL",
+                    "modCode": "LC",
+                    "label": "Left Control",
+                    "description": null,
+                    "created_at": "2021-12-28T09:53:02.833Z",
+                    "updated_at": "2022-12-16T10:18:32.025Z",
+                    "deleted": false,
+                    "modifiable": true,
+                    "shifted": false,
+                    "tap": false,
+                    "hold": false,
+                    "doubleTap": false,
+                    "tapHold": false,
+                    "searchLabel": null,
+                    "tag": null,
+                    "glyph": null,
+                    "jsCode": null,
+                    "url": null,
+                    "os": null,
+                    "geometry": null,
+                    "params": null,
+                    "models": null,
+                    "priority": null,
+                    "macro": null,
+                    "shape": null,
+                    "comboPickable": true,
+                    "comboTrigger": true
+                  }
+                ],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 23,
+              "label": "Selection Grow",
+              "tap": {
+                "id": 6869,
+                "code": "KP_PLUS",
+                "key_category_id": 77,
+                "label": "+",
+                "description": null,
+                "created_at": "2021-12-28T09:53:15.659Z",
+                "updated_at": "2022-12-16T10:18:45.073Z",
+                "deleted": false,
+                "modifiable": true,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": "numpad",
+                "glyph": null,
+                "jsCode": "NumpadAdd",
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": null,
+                "models": null,
+                "priority": null,
+                "macro": true,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [
+                  {
+                    "id": 5470,
+                    "key_category_id": 63,
+                    "code": "MOD_LCTL",
+                    "modCode": "LC",
+                    "label": "Left Control",
+                    "description": null,
+                    "created_at": "2021-12-28T09:53:02.833Z",
+                    "updated_at": "2022-12-16T10:18:32.025Z",
+                    "deleted": false,
+                    "modifiable": true,
+                    "shifted": false,
+                    "tap": false,
+                    "hold": false,
+                    "doubleTap": false,
+                    "tapHold": false,
+                    "searchLabel": null,
+                    "tag": null,
+                    "glyph": null,
+                    "jsCode": null,
+                    "url": null,
+                    "os": null,
+                    "geometry": null,
+                    "params": null,
+                    "models": null,
+                    "priority": null,
+                    "macro": null,
+                    "shape": null,
+                    "comboPickable": true,
+                    "comboTrigger": true
+                  }
+                ],
+                "layer": {}
+              },
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 24,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 25,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 26,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 27,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 28,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 29,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 30,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 31,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 32,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 33,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 34,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            },
+            {
+              "index": 35,
+              "label": "",
+              "tap": {},
+              "held": {
+                "modifiers": []
+              }
+            }
+          ]
+        },
+        {
+          "index": 5,
           "label": "Numbers",
           "bindings": [
             {
@@ -20717,7 +22559,7 @@
           ]
         },
         {
-          "index": 4,
+          "index": 6,
           "label": "Sym_Left",
           "bindings": [
             {
@@ -21419,7 +23261,7 @@
           ]
         },
         {
-          "index": 5,
+          "index": 7,
           "label": "Sym_Right",
           "bindings": [
             {
@@ -22121,7 +23963,7 @@
           ]
         },
         {
-          "index": 6,
+          "index": 8,
           "label": "Com_Switch",
           "bindings": [
             {
@@ -22467,7 +24309,43 @@
             {
               "index": 13,
               "label": "",
-              "tap": {},
+              "tap": {
+                "id": 6254,
+                "code": "to",
+                "key_category_id": 65,
+                "label": "Switch To",
+                "description": "Direct switch to a layer. Works for switching to lower layers as well.",
+                "created_at": "2021-12-28T09:53:10.582Z",
+                "updated_at": "2022-12-16T23:38:33.805Z",
+                "deleted": false,
+                "modifiable": false,
+                "shifted": false,
+                "tap": true,
+                "hold": true,
+                "doubleTap": true,
+                "tapHold": true,
+                "searchLabel": null,
+                "tag": "tap",
+                "glyph": "layer_tap",
+                "jsCode": null,
+                "url": null,
+                "os": null,
+                "geometry": null,
+                "params": {
+                  "layer": "otherLayers"
+                },
+                "models": null,
+                "priority": null,
+                "macro": null,
+                "shape": null,
+                "comboPickable": true,
+                "comboTrigger": true,
+                "modifiers": [],
+                "layer": {
+                  "index": 3,
+                  "label": "Blender"
+                }
+              },
               "held": {}
             },
             {
@@ -22605,7 +24483,7 @@
           ]
         },
         {
-          "index": 7,
+          "index": 9,
           "label": "Pc_util",
           "bindings": [
             {
@@ -23589,7 +25467,7 @@
           ]
         },
         {
-          "index": 8,
+          "index": 10,
           "label": "Mac_util",
           "bindings": [
             {
@@ -24614,7 +26492,7 @@
           ]
         },
         {
-          "index": 9,
+          "index": 11,
           "label": "PC_Nav",
           "bindings": [
             {
@@ -25304,7 +27182,7 @@
           ]
         },
         {
-          "index": 10,
+          "index": 12,
           "label": "Mac_Nav",
           "bindings": [
             {
@@ -26100,7 +27978,7 @@
           ]
         },
         {
-          "index": 11,
+          "index": 13,
           "label": "PC_VDesk",
           "bindings": [
             {
@@ -26852,7 +28730,7 @@
           ]
         },
         {
-          "index": 12,
+          "index": 14,
           "label": "Mac_VDesk",
           "bindings": [
             {
@@ -27300,7 +29178,7 @@
           ]
         },
         {
-          "index": 13,
+          "index": 15,
           "label": "PC_App",
           "bindings": [
             {
@@ -27797,7 +29675,7 @@
           ]
         },
         {
-          "index": 14,
+          "index": 16,
           "label": "Mac_App",
           "bindings": [
             {
@@ -28380,7 +30258,7 @@
           ]
         },
         {
-          "index": 15,
+          "index": 17,
           "label": "PC_Tabs",
           "bindings": [
             {
@@ -29206,7 +31084,7 @@
           ]
         },
         {
-          "index": 16,
+          "index": 18,
           "label": "Mac_Tabs",
           "bindings": [
             {
@@ -30160,7 +32038,7 @@
           ]
         }
       ],
-      "lastArtifactId": 1145784888
+      "lastArtifactId": 6822882273
     },
     {
       "lastArtifactId": 570949394,
