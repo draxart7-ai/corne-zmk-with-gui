@@ -11,8 +11,8 @@
 #define PC 0 
 #define Mac 1 
 #define Gaming 2 
-#define Modeling 3 
-#define Model_Util 4 
+#define Blender 3 
+#define Blender_Util 4 
 #define Numbers 5 
 #define Sym_Left 6 
 #define Sym_Right 7 
@@ -73,22 +73,22 @@ Gaming_layer {
             >;
           };
             
-Modeling_layer {
-            label = "Modeling";
+Blender_layer {
+            label = "Blender";
             bindings = <
-              &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none 
-              &none            &none            &kp R            &kp S            &kp G            &kp TAB          &none            &none            &none            &none            &none            &none 
-              &none            &mo Model_Util   &none            &none            &none            &none            &none            &none            &none            &none            &mo Com_Switch   &none 
+              &none            &kp X            &hm LSHIFT X     &hm LALT Y       &hm LCTRL Z      &kp LS(R)        &none            &none            &none            &none            &none            &none 
+              &none            &kp W            &kp R            &kp S            &kp G            &kp TAB          &none            &none            &none            &none            &none            &none 
+              &none            &mo Model_Util   &kp LC(B)        &kp LC(R)        &kp E            &kp M            &none            &none            &none            &none            &mo Com_Switch   &none 
                                                 &kp ENTER        &kp SPACE        &kp LSHIFT       &none            &none            &none           
             >;
           };
             
-Model_Util_layer {
-            label = "Model_Util";
+Blender_Util_layer {
+            label = "Blender_Util";
             bindings = <
-              &none            &none            &none            &kp LC(Z)        &kp LC(Y)        &none            &none            &none            &none            &none            &none            &none 
-              &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none 
-              &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none 
+              &none            &none            &none            &kp LC(Z)        &kp LS(LC(Z))    &none            &none            &none            &none            &none            &none            &none 
+              &none            &none            &hm LCTRL LC(S)  &kp LS(S)        &none            &none            &none            &none            &none            &none            &none            &none 
+              &none            &none            &kp L            &kp LC(KP_MINUS) &kp LC(KP_PLUS)  &none            &none            &none            &none            &none            &none            &none 
                                                 &none            &none            &none            &none            &none            &none           
             >;
           };
