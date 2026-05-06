@@ -12,20 +12,21 @@
 #define Mac 1 
 #define Gaming 2 
 #define Modeling 3 
-#define Numbers 4 
-#define Sym_Left 5 
-#define Sym_Right 6 
-#define Com_Switch 7 
-#define Pc_util 8 
-#define Mac_util 9 
-#define PC_Nav 10 
-#define Mac_Nav 11 
-#define PC_VDesk 12 
-#define Mac_VDesk 13 
-#define PC_App 14 
-#define Mac_App 15 
-#define PC_Tabs 16 
-#define Mac_Tabs 17 
+#define Model_Util 4 
+#define Numbers 5 
+#define Sym_Left 6 
+#define Sym_Right 7 
+#define Com_Switch 8 
+#define Pc_util 9 
+#define Mac_util 10 
+#define PC_Nav 11 
+#define Mac_Nav 12 
+#define PC_VDesk 13 
+#define Mac_VDesk 14 
+#define PC_App 15 
+#define Mac_App 16 
+#define PC_Tabs 17 
+#define Mac_Tabs 18 
     
 / {
     behaviors {
@@ -77,6 +78,16 @@ Modeling_layer {
             bindings = <
               &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none 
               &none            &none            &kp R            &kp S            &kp G            &kp TAB          &none            &none            &none            &none            &none            &none 
+              &none            &mo Model_Util   &none            &none            &none            &none            &none            &none            &none            &none            &mo Com_Switch   &none 
+                                                &kp ENTER        &kp SPACE        &kp LSHIFT       &none            &none            &none           
+            >;
+          };
+            
+Model_Util_layer {
+            label = "Model_Util";
+            bindings = <
+              &none            &none            &none            &kp LC(Z)        &kp LC(Y)        &none            &none            &none            &none            &none            &none            &none 
+              &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none 
               &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none            &none 
                                                 &none            &none            &none            &none            &none            &none           
             >;
